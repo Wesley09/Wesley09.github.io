@@ -1,7 +1,5 @@
 ﻿---
-published: true
-title: Fix Sensor de Aproximidade GT-S7273T 
-layout: post
+title: Fix Sensor de Aproximidade GT-S7273T CM-11.0 & CM-12.1
 ---
 
 
