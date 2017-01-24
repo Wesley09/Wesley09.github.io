@@ -1,8 +1,9 @@
 ﻿---
 published: true
-title: cm-11.0 & cm-12.1 Como Fixar o Sensor de Aproximidade do galaxy s2 tv GT-S7273T 
+title: Fix Sensor de Aproximidade GT-S7273T 
 layout: post
 ---
+
 
 LINKS:
 
