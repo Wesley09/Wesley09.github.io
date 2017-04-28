@@ -1,5 +1,5 @@
 ﻿---
-title: Fix Sensor de Aproximidade GT-S7273T Miui-v6 KITKAT
+title: Fix Sensor de proximidade GT-S7273T Miui-v6 KITKAT
 ---
 
 
