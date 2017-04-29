@@ -28,7 +28,7 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 
 * [TWRP V3.0.2-logandsdtv](http://adf.ly/1mPeDR)
-* [MiniMoD v4 Final]( )
+* [MiniMoD v4 Final](http://adf.ly/1mPlgP)
 
 
 
