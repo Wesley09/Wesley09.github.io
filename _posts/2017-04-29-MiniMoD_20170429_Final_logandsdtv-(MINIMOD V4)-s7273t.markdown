@@ -112,22 +112,6 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 
 
-![00](https://drive.google.com/open?id=0B0rU9DoTSkTkRHJ4TGZzaXotLUE)
-
-![01](https://drive.google.com/open?id=0B0rU9DoTSkTkNUt1SWg4ZEdmblU)
-
-![02](https://drive.google.com/open?id=0B0rU9DoTSkTkN3VjaXg5SnBBWjg)
-
-![03](https://drive.google.com/open?id=0B0rU9DoTSkTkOGg5ZjJpaUI4aUE)
-
-![04](https://drive.google.com/open?id=0B0rU9DoTSkTkTTc2VGZnd0dheVk)
-
-![05](https://drive.google.com/open?id=0B0rU9DoTSkTkMWlvSWx5Zkw0cWs)
-
-![06](https://drive.google.com/open?id=0B0rU9DoTSkTkMU1mZ0FFXzdTV3M)
-
-
-
 
 ## CREDITOS: ##
 
