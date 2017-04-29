@@ -108,20 +108,23 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 
 
- 
-![00](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/00.png)
-	
-![01](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/01.png)
-	
-![02](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/02.png)
-	
-![03](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/03.png)
-	
-![04](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/04.png)
-	
-![05](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/05.png)
-	
-![06](https://github.com/Wesley09/Wesley09.github.io/blob/master/imagens/06.png)
+* [Imagens no Google Drive](https://drive.google.com/open?id=0B0rU9DoTSkTkakwtVDNOVkMwbTQ)
+
+
+
+![00](https://drive.google.com/open?id=0B0rU9DoTSkTkRHJ4TGZzaXotLUE)
+
+![01](https://drive.google.com/open?id=0B0rU9DoTSkTkNUt1SWg4ZEdmblU)
+
+![02](https://drive.google.com/open?id=0B0rU9DoTSkTkN3VjaXg5SnBBWjg)
+
+![03](https://drive.google.com/open?id=0B0rU9DoTSkTkOGg5ZjJpaUI4aUE)
+
+![04](https://drive.google.com/open?id=0B0rU9DoTSkTkTTc2VGZnd0dheVk)
+
+![05](https://drive.google.com/open?id=0B0rU9DoTSkTkMWlvSWx5Zkw0cWs)
+
+![06](https://drive.google.com/open?id=0B0rU9DoTSkTkMU1mZ0FFXzdTV3M)
 
 
 
@@ -141,5 +144,5 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 
 
-        [- https://github.com/Wesley09](https://github.com/Wesley09)
+* [Wesley09](https://github.com/Wesley09)
 
