@@ -39,7 +39,7 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 
 
-        - A ROM só irá intalar com esta "RECOVERY" do Link a cima.
+        - A ROM só irá instalar com esta "RECOVERY" do Link a cima.
 		
 
 
@@ -90,10 +90,10 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
         - 3° Selecione o TWRP
         - 4° Confirme (yes)
         - 5° Advanced/ recovery recovery
-		- 6° Install Zip
-		- 7° Choose zip from SDcard1
+		- 6° Install (Instalar)
+		- 7° Selecione "externel extorage"
 		- 8° Selecione a ROM (MiniMoD_20170429_Final_logandsdtv)
-		- 9° Confirme (yes)
+		- 9° Deslize a barra até o final
 		- 10° Espere até terminar de instalar (5 min aproximadamente)
 		- 11° Reboot system
 
