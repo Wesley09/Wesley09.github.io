@@ -6,17 +6,19 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 LEMBRE-SE:
 
     - Sua garantia é agora nula.
+	
     - Eu não sou responsável por dispositivos brickeados.
+	
     - Fazer alguma pesquisa se você tiver alguma preocupação sobre os recursos incluídos nesta ROM.
+	
     - Quando você instalar VOCÊ está escolhendo fazer estas modificações, e se Você apontar o dedo para mim por estragar o seu dispositivo, vou rir de você.
 
 	
 	
 LINKS:
 
-        - TWRP V3.0.2-logandsdtv:
-		
-		- MiniMoD v4 Final:
+* [TWRP V3.0.2-logandsdtv](http://adf.ly/1mPeDR)
+* [MiniMoD v4 Final]( )
 
 
 BUGS:
@@ -72,32 +74,27 @@ LEMBRE-SE:
 IMAGENS:
 
  
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
+![Screenshot_2017-04-29-17-22-16](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
+![Screenshot_2017-04-29-17-22-23](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
+![Screenshot_2017-04-29-17-22-32](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
+![Screenshot_2017-04-29-17-22-43](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
+![Screenshot_2017-04-29-17-23-04](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
+![Screenshot_2017-04-29-17-23-12](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
 	
-![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
+![Screenshot_2017-04-29-17-23-22](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
 
 
 CREDITOS:
 
         - Wesley de Oliveira (Wesley09)
-		
-		
 	
-    -ROM criado e postada por "Wesley de Oliveira"
+	
+SOURCE (github)
 
-	
-	
-         SOURCE (github)
-
-             - https://github.com/Wesley09
+        - https://github.com/Wesley09
 
