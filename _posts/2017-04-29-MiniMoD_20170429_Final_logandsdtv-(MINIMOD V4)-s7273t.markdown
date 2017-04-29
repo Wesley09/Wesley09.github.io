@@ -40,31 +40,31 @@ LEMBRE-SE:
 
          - Após Baixar o TWRP, vá no seu antigo TWRP e faça os seguintes passos:
 
-             - 1° Install
-             - 2° Selecione o TWRP 
-             - 3° Deslize a barra até o final
-             - 4° Reboot/ Reboot recovery
-			 - 5° Install (Instalar)
-			 - 6° Selecione a ROM (MiniMoD_20170429_Final_logandsdtv)
-			 - 7° Deslize a barra até o final
-			 - 8° Espere até terminar de instalar (5 min aproximadamete)
-			 - 9° Reboot system
+        - 1° Install
+        - 2° Selecione o TWRP 
+        - 3° Deslize a barra até o final
+        - 4° Reboot/ Reboot recovery
+		- 5° Install (Instalar)
+		- 6° Selecione a ROM (MiniMoD_20170429_Final_logandsdtv)
+		- 7° Deslize a barra até o final
+		- 8° Espere até terminar de instalar (5 min aproximadamente)
+		- 9° Reboot system
 
     CWM:
 
         - Após Baixar o TWRP, vá no seu CWM e faça os seguintes passos:
 
-             - 1° Install Zip
-             - 2° Choose zip from SDcard1
-             - 3° Selecione o TWRP
-             - 4° Confirme (yes)
-             - 5° Advanced/ recovery recovery
-			 - 6° Install Zip
-			 - 7° Choose zip from SDcard1
-			 - 8° Selecione a ROM (MiniMoD_20170429_Final_logandsdtv)
-			 - 9° Confirme (yes)
-			 - 10° Espere até terminar de instalar (5 min aproximadamete)
-			 - 11° Reboot system
+        - 1° Install Zip
+        - 2° Choose zip from SDcard1
+        - 3° Selecione o TWRP
+        - 4° Confirme (yes)
+        - 5° Advanced/ recovery recovery
+		- 6° Install Zip
+		- 7° Choose zip from SDcard1
+		- 8° Selecione a ROM (MiniMoD_20170429_Final_logandsdtv)
+		- 9° Confirme (yes)
+		- 10° Espere até terminar de instalar (5 min aproximadamente)
+		- 11° Reboot system
 
 
      Enjoy!! :)
