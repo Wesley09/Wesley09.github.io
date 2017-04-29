@@ -3,7 +3,7 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 ---
 
 
-LEMBRE-SE:
+## LEMBRE-SE: ##
 
     - Sua garantia é agora nula.
 	
@@ -15,28 +15,32 @@ LEMBRE-SE:
 
 	
 	
-LINKS:
+## LINKS: ##
 
 * [TWRP V3.0.2-logandsdtv](http://adf.ly/1mPeDR)
 * [MiniMoD v4 Final]( )
 
 
-BUGS:
+## LEMBRE-SE: ## 
+
+        - A ROM só irá intalar com esta "RECOVERY" do Link a cima.
+		
+
+
+
+## BUGS: ##
 
    - Som de Chamada Sim 2
    - Keyboard (Fixado no Build do dia 29.04.2017)
 
+
+
    
-Como instalar:
-
-
-LEMBRE-SE:
-
-        - A ROM só irá intalar com esta "RECOVERY" do Link a cima.
+## Como instalar: ##
 		
 		
 
-    TWRP:
+   ## TWRP: ##
 
          - Após Baixar o TWRP, vá no seu antigo TWRP e faça os seguintes passos:
 
@@ -50,7 +54,7 @@ LEMBRE-SE:
 		- 8° Espere até terminar de instalar (5 min aproximadamente)
 		- 9° Reboot system
 
-    CWM:
+   ## CWM: ##
 
         - Após Baixar o TWRP, vá no seu CWM e faça os seguintes passos:
 
@@ -71,30 +75,30 @@ LEMBRE-SE:
 
 
 
-IMAGENS:
+## IMAGENS: ##
 
  
-![Screenshot_2017-04-29-17-22-16](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
+![Screenshot_2017-04-29-17-22-16](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png) 
 	
-![Screenshot_2017-04-29-17-22-23](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
+![Screenshot_2017-04-29-17-22-23](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png) 
 	
-![Screenshot_2017-04-29-17-22-32](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
+![Screenshot_2017-04-29-17-22-32](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png) 
 	
-![Screenshot_2017-04-29-17-22-43](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
+![Screenshot_2017-04-29-17-22-43](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png) 
 	
-![Screenshot_2017-04-29-17-23-04](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
+![Screenshot_2017-04-29-17-23-04](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png) 
 	
-![Screenshot_2017-04-29-17-23-12](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
+![Screenshot_2017-04-29-17-23-12](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png) 
 	
-![Screenshot_2017-04-29-17-23-22](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
+![Screenshot_2017-04-29-17-23-22](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png) 
 
 
-CREDITOS:
+## CREDITOS: ##
 
         - Wesley de Oliveira (Wesley09)
 	
 	
-SOURCE (github)
+## SOURCE (github) ##
 
         - https://github.com/Wesley09
 
