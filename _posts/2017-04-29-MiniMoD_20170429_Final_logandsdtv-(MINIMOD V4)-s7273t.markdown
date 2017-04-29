@@ -72,19 +72,19 @@ LEMBRE-SE:
 IMAGENS:
 
  
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
 	
-https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
 
 
 CREDITOS:
