@@ -18,11 +18,13 @@ LINKS:
 		
 		- MiniMoD v4 Final:
 
+
 BUGS:
 
    - Som de Chamada Sim 2
    - Keyboard (Fixado no Build do dia 29.04.2017)
 
+   
 Como instalar:
 
 
@@ -65,27 +67,26 @@ LEMBRE-SE:
 
      Enjoy!! :)
 
-	 
-	 
-Imagens:
-          
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
+
+
+IMAGENS:
+
+ 
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-16.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-23.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-32.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-22-43.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-04.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-12.png)
 	
-	![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
-	 
-	 
-	 
-	 
+![Alt Text](https://github.com/Wesley09/Imagens/blob/master/Screenshot_2017-04-29-17-23-22.png)
+
+
 CREDITOS:
 
         - Wesley de Oliveira (Wesley09)
