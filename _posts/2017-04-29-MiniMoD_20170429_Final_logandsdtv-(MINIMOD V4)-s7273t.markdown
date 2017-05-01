@@ -2,7 +2,7 @@
 title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 ---
 
-
+<img src="http://Wesley09.github.io/img/minimod.png" alt="MiniMoD">
 
 
 ## LEMBRE-SE: ##
