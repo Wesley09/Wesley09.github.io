@@ -2,7 +2,7 @@
 title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 ---
 
-<img src="http://Wesley09.github.io/img/minimod.png" alt="MiniMoD">
+<img src="http://Wesley09.github.io/img/minimod/minimod.png" alt="MiniMoD">
 
 
 ## LEMBRE-SE: ##
@@ -110,6 +110,20 @@ title: MiniMod v4 Final Samsung Galaxy s2 TV GT-S7273T
 
 * [Imagens no Google Drive](https://drive.google.com/open?id=0B0rU9DoTSkTkakwtVDNOVkMwbTQ)
 
+
+<img src="http://Wesley09.github.io/img/minimod/00.png" alt="00">
+
+<img src="http://Wesley09.github.io/img/minimod/01.png" alt="01">
+
+<img src="http://Wesley09.github.io/img/minimod/02.png" alt="02">
+
+<img src="http://Wesley09.github.io/img/minimod/03.png" alt="03">
+
+<img src="http://Wesley09.github.io/img/minimod/04.png" alt="04">
+
+<img src="http://Wesley09.github.io/img/minimod/05.png" alt="05">
+
+<img src="http://Wesley09.github.io/img/minimod/06.png" alt="06">
 
 
 
