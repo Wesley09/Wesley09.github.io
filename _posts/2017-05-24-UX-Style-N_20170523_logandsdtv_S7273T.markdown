@@ -1,0 +1,163 @@
+﻿---
+title: Note 8 ROM v1 Samsung Galaxy s2 TV GT-S7273T
+---
+
+<img src="http://Wesley09.github.io/img/UX/banner.png" alt="banner">
+
+
+## LEMBRE-SE: ##
+
+
+
+
+    - Sua garantia é agora nula.
+	
+    - Eu não sou responsável por dispositivos brickeados.
+	
+    - Fazer alguma pesquisa se você tiver alguma preocupação sobre os recursos incluídos nesta ROM.
+	
+    - Quando você instalar VOCÊ está escolhendo fazer estas modificações, e se Você apontar o dedo para mim por estragar o seu dispositivo, vou rir de você.
+
+	
+	
+	
+	
+## LINKS: ##
+
+
+
+
+* [TWRP V3.0.2-logands](http://atominik.com/2oDn)
+* [UX-Style ROM v1](http://atominik.com/2oDU)
+* [Toogles](http://pintient.com/2ACM)
+
+
+## BUGS: ##
+
+
+
+
+   - Nenhum Bug encontrado
+
+
+## Mudanças e Mods: ##
+
+
+   - Settings UX   by   @uhes
+   - SytemUI UX    by   @uhes
+   - Framework     by   @uhes
+   - Icon Pack UX  by   @uhes
+   - Launcher N    by   @uhes
+   - Deodexed      by   @Wesley Oliveira
+   - Supersu       by   @Wesley Oliveira
+   - Accuweather   by   @Wesley Oliveira
+   - Add Xposed Installer
+   - Add ViberFX
+   - Init.d Support
+   - Signed
+   - Bootanimation White Note 7
+   - Media note 7
+   - Etc..
+   
+   
+
+   
+## Como instalar: ##
+		
+		
+
+   ## TWRP: ##
+   
+   
+
+         - Após Baixar o TWRP, vá no seu antigo TWRP e faça os seguintes passos:
+
+        - 1° Install
+        - 2° Selecione o TWRP 
+        - 3° Deslize a barra até o final
+        - 4° Reboot/ Reboot recovery
+        - 5° Install (Instalar)
+        - 6° Selecione a ROM (UX-Style-N_XXXXXXXX_logands)
+        - 7° Deslize a barra até o final
+        - 8° Espere até terminar de instalar (5 min aproximadamente)
+        - 9° Selecione o "Toogles.zip"
+        - 10° Deslize a barra até o final
+        - 11° Espere até terminar de instalar
+        - 12° Reboot system
+
+     Enjoy!! :)
+
+
+	 
+	 
+
+## IMAGENS: ##
+
+
+<img src="http://Wesley09.github.io/img/UX/1.png" alt="1">
+
+<img src="http://Wesley09.github.io/img/UX/2.png" alt="2">
+
+<img src="http://Wesley09.github.io/img/UX/3.png" alt="3">
+
+<img src="http://Wesley09.github.io/img/UX/4.png" alt="4">
+
+<img src="http://Wesley09.github.io/img/UX/5.png" alt="5">
+
+<img src="http://Wesley09.github.io/img/UX/6.png" alt="6">
+
+<img src="http://Wesley09.github.io/img/UX/7.png" alt="7">
+
+<img src="http://Wesley09.github.io/img/UX/8.png" alt="8">
+
+
+## ALTERAÇÕES: ##
+
+  - 24.05.2017
+    - Add Toogles.zip
+	
+  - 23.05.2017
+  
+  - SystemUI.apk
+    - V1
+    - Initial release S7270 by @uhes
+	
+    - V2 by @Wesley Oliveira
+    - Transale PT-BR
+    - Port  for S7273T and sign apk
+    - Add Support Navigation Bar
+	
+  - SecSettings.apk
+    - V1 initial release S7273T by @uhes
+	
+    - V2 by @Wesley Oliveira
+    - Transale PT-BR
+    - Sign apk
+	
+  - Framework-res.apk
+    - V1 by @uhes
+    - Initial release
+    - Sign apk for being with bootloop
+
+
+
+
+## CREDITOS: ##
+
+
+* [@uhes](https://forum.xda-developers.com/member.php?u=7798931)
+* [@Wesley0906](https://forum.xda-developers.com/member.php?u=7721990)
+	
+	
+	
+## SOURCE (github) ##
+
+
+
+* [Wesley09](https://github.com/Wesley09)
+
+## Informação de Versão: ##
+
+Status: ESTÁVEL
+Versão estável atual: 4.2.2 (UX Theme 6.0.1)
+Data de lançamento estável: 24-05-2017
